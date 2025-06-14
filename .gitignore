@@ -1,5 +1,5 @@
 *.swp
 *.swo
 **/.ipynb_checkpoints/*
-.env.ini
+.env
 venv/

@@ -39,6 +39,7 @@ defusedxml==0.7.1
 Deprecated==1.2.18
 distro==1.9.0
 docstring_parser==0.16
+dotenv==0.9.9
 durationpy==0.10
 et_xmlfile==2.0.0
 executing==2.2.0
@@ -54,6 +55,7 @@ gitdb==4.0.12
 GitPython==3.1.44
 google-auth==2.40.1
 googleapis-common-protos==1.70.0
+groq==0.28.0
 grpcio==1.71.0
 h11==0.16.0
 httpcore==1.0.9
@@ -89,6 +91,7 @@ jupyter_core==5.8.1
 jupyter_server==2.16.0
 jupyter_server_terminals==0.5.3
 jupyterlab==4.4.3
+jupyterlab-vim==4.1.4
 jupyterlab_pygments==0.3.0
 jupyterlab_server==2.27.3
 jupyterlab_widgets==3.0.15
